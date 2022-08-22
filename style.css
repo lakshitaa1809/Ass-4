@@ -1,0 +1,235 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;}
+    
+.container{
+    width: 1200px;
+    margin:auto;  
+}
+.row{
+    display:flex;
+    flex-wrap:wrap
+}
+header{
+padding:20px 20px;
+    border-style:none;
+    background-color:#1ba691;
+    height:60px;
+}
+.logo-support{
+    height: 30px;padding:18px 0px ;
+    width:auto; color:rgb(255, 255, 255);
+    margin-right:200px;
+    font-size:20px;
+}
+.logo1{ margin-left:150px;
+    padding:15px 10px;
+    height: 30px;
+   }
+   .logo{
+    width:auto;
+    position: relative;
+left:1050px;
+bottom:55px;
+   }
+   
+.header-nav{
+    width:auto;
+    margin-top: 20px;
+    position: relative;
+    right:130px;
+  
+}
+    .header-nav a
+    {  
+        text-decoration: none;
+   color:rgb(255, 255, 255);
+   padding:10px 15px;
+    }
+   .start{
+   margin-top:10px; 
+   }
+   .box1{
+    width:30%;
+    margin-top:70px;
+    font-family: 'Lato', sans-serif;
+    margin-left:250px;
+   }
+   .box1 h1{
+    font-size:40px;
+   }
+   .box1 h3{
+    margin-top:15px;
+    text-align: justify;
+    font-size:20px;
+   }
+   .box1-1 img{
+    margin-top: 10px;
+    margin-left :70px;
+    width:80%;  
+   }
+.section-nav{
+    margin-left:250px;
+     
+}
+.section-nav a{
+    text-decoration: none; 
+    position: relative;
+   bottom:180px;
+   color:rgb(100, 194, 197);
+}
+.section-nav a:hover
+{
+    text-decoration: underline;
+}
+.android{
+    position: relative;
+    bottom:170px;
+    margin-top: 30px;
+   
+}
+.iphone{
+    position: relative;
+    bottom:170px;
+    margin-top: 10px;
+
+}
+.mac{
+    position: relative;
+    bottom:170px;
+    margin-top: 10px;
+    right:13px;
+}
+.middle{width:100%; 
+   margin-left:-100px;
+   margin-right:-300px;
+}
+
+
+.middle-img{ width:50%;
+    margin-left:220px;
+    margin-top: 40px;
+}
+ .box2-1{
+    width:60%;margin-left:-100px;
+    text-align:justify;
+    border-style: none;
+    background-color:rgb(173, 173, 240) ;
+}
+.box2-1 h3{font-size: 40px;
+    margin-top:100px;
+    text-align: center;
+    margin-left:100px;
+}
+.box2-1 .link{margin-left:180px;
+    margin-right:70px;
+    text-align: justify;
+    padding-top: 30px; 
+    line-height: 25px;
+}
+.box2-1 .link a{
+    color:rgb(41, 41, 196);
+}
+.box2-1 .link a:hover
+{
+    text-decoration: underline;
+}
+.box2-1 p{margin-top: 40px;;
+    margin-left:180px;
+    margin-right:70px;
+    text-align: justify;
+    line-height: 25px;
+}
+.box2-2{width:60%;
+    margin-left:40px;
+   margin-right: -300px;
+    border-style: none;
+    background-color:rgb(204, 204, 207) ;
+}
+.box2-2 video{
+    margin-top:140px;
+    width:60%;
+    align-items: center;
+    margin-left:150px;
+}
+.box2-2 h6{
+    margin-left:30px;
+    text-align: center;
+    color: rgb(70, 64, 64);
+    font-size: 20px;
+}
+.box2-2 h5{
+    margin-left:30px;
+    text-align: center;
+    color:black;
+    font-size: 30px;
+}
+.box2-2 p{
+    margin-left:60px;
+    margin-right:60px;
+    text-align:start;
+    line-height:25px;}
+ .section-button
+    {
+        width:100%;
+        margin-left:80px;
+    }
+.section-button a{
+text-decoration: none;
+position: absolute;
+left:470px;
+color:#1ba691;
+text-align: center;
+
+    }
+    .section-button .button1 {
+        text-align: center;
+        margin-top: 60px;
+        font-size:large;
+        width: 260px;
+        height:40px;
+        padding-top: 15px;
+        background-color: rgb(245, 239, 239);
+        color: rgb(17, 12, 12);
+        border-radius: 30px;
+        border-color: #1ba691;
+        border: 30px;
+    }
+    .last{
+        width:100%;
+        margin-top:150px;
+        background-color: rgb(18, 12, 27);
+        
+    }
+    .last .last-nav{
+        height:500px;
+        width:auto;
+    }
+    .last-nav a{
+text-decoration: none;
+padding:20px 80px;
+margin-top:10px;line-height:30px;
+color: white;
+    }
+    .last-nav h3{
+        padding:20px 80px;
+        margin-top:20px;line-height:30px;
+        color: white;
+    }
+    .last-nav a:hover
+    {
+        text-decoration: underline;
+    }
+    .footer{
+        padding:0px 10px;
+        background-color:black;
+    }
+    
+    .conclusion h4{
+        color:white;
+        padding:20px 40px;
+    }
+.conclusion a{
+    text-decoration: none;color:white;
+    margin-left:800px;position: relative;
+    top:30px;
+}
